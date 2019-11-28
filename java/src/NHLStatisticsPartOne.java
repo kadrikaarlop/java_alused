@@ -1,6 +1,6 @@
 import nhlstats.NHLStatistics;
 
-public class Main {
+class NHLStatisticsPart2 {
 
     public static void main(String[] args) {
         NHLStatistics.sortByGoals();
