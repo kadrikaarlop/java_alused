@@ -1,10 +1,6 @@
 package com.company;
 
-import org.graalvm.compiler.graph.Graph;
-
 import java.util.Scanner;
-
-import static org.graalvm.compiler.graph.Graph.*;
 
 public class Temperatures {
     public static void main(String [] args) {

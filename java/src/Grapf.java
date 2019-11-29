@@ -13,7 +13,7 @@ class Graph {
     private XYDataset data;
     private XYSeries series;
 
-    public Graph(String nimi) {
+    private Graph(String nimi) {
         series = new XYSeries(nimi);
         series.add(0,0);
         data = new XYSeriesCollection(series);
